@@ -3,9 +3,7 @@
 ## Pseudo Code:
     
     -------------------------------------------------------------
-    |								|
-    |	Class CurrencyConversion				|
-    |								|
+    Class CurrencyConversion
     -------------------------------------------------------------
     private double amountInUSD;
     
@@ -28,9 +26,7 @@
     
     
     -------------------------------------------------------------
-    |								|
-    |	Class TestCurrencyConversion				|
-    |								|
+    Class TestCurrencyConversion
     -------------------------------------------------------------
     
     Inside the main() method:
