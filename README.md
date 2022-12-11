@@ -5,6 +5,7 @@
     -------------------------------------------------------------
     Class CurrencyConversion
     -------------------------------------------------------------
+    
     private double amountInUSD;
     
     /* This method will return the converted USD in double type. */
