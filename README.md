@@ -40,7 +40,7 @@
 		* Euros to be coverted [using the input from the user]
 		* Exchange rate [using the input from the user]
 		* Exchanged USD [using convertEURToUSD() method of the CurrencyConversion class]
-		* Payable USD [using calculatePayable() method of the CurrencyConversion class]
+		* Payable USD [using calculatePayable() method of the CurrencyConversion class]	
 	5) END of the program
 	
 	
