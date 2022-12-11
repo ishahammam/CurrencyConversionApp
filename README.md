@@ -2,6 +2,9 @@
 
 ## Pseudo Code:
     
+    -------------------------------------------------------------
+    Class CurrencyConversion
+    -------------------------------------------------------------
     private double amountInUSD;
     
     /* This method will return the converted USD in double type. */
@@ -21,7 +24,23 @@
 	    return payableInUSD;
     }
     
+    
     -------------------------------------------------------------
+    Class TestCurrencyConversion
+    -------------------------------------------------------------
+    
+    Inside the main() method:
+    	1) Create an object of the CurrencyConversion class
+	2) Create an object of the Scanner class for taking the inputs
+	3) Prompt for Input(s):
+		* The amount in EUR that needs to be converted
+		* Daily exchange rate
+	4) Display Output(s):
+		* Euros to be coverted
+		* Exchange rate
+		* Exchanged USD [using convertEURToUSD() method of the CurrencyConversion class]
+		* Payable USD [using calculatePayable() method of the CurrencyConversion class]
+	5) END of the program
 
 
 ## Output:
