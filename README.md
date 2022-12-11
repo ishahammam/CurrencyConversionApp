@@ -3,7 +3,9 @@
 ## Pseudo Code:
     
     -------------------------------------------------------------
-    Class CurrencyConversion
+    |								|
+    |	Class CurrencyConversion				|
+    |								|
     -------------------------------------------------------------
     private double amountInUSD;
     
@@ -26,7 +28,9 @@
     
     
     -------------------------------------------------------------
-    Class TestCurrencyConversion
+    |								|
+    |	Class TestCurrencyConversion				|
+    |								|
     -------------------------------------------------------------
     
     Inside the main() method:
@@ -41,6 +45,8 @@
 		* Exchanged USD [using convertEURToUSD() method of the CurrencyConversion class]
 		* Payable USD [using calculatePayable() method of the CurrencyConversion class]
 	5) END of the program
+	
+	
 
 
 ## Output:
