@@ -31,7 +31,7 @@
     -------------------------------------------------------------
     
     Inside the main() method:
-    	1) Create an object of the CurrencyConversion class
+    1) Create an object of the CurrencyConversion class
 	2) Create an object of the Scanner class for taking the inputs
 	3) Prompt for Input(s):
 		* The amount in EUR that needs to be converted
