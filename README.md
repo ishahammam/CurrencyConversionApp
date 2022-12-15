@@ -3,7 +3,7 @@
 ## Pseudo Code:
     
     -------------------------------------------------------------
-    Class CurrencyConversion
+    Class app.CurrencyConversion
     -------------------------------------------------------------
     
     private double amountInUSD;
@@ -27,11 +27,11 @@
     
     
     -------------------------------------------------------------
-    Class TestCurrencyConversion
+    Class app.TestCurrencyConversion
     -------------------------------------------------------------
     
     Inside the main() method:
-    1) Create an object of the CurrencyConversion class
+    1) Create an object of the app.CurrencyConversion class
 	2) Create an object of the Scanner class for taking the inputs
 	3) Prompt for Input(s):
 		* The amount in EUR that needs to be converted
@@ -39,8 +39,8 @@
 	4) Display Output(s):
 		* Euros to be coverted [using the input from the user]
 		* Exchange rate [using the input from the user]
-		* Exchanged USD [using convertEURToUSD() method of the CurrencyConversion class]
-		* Payable USD [using calculatePayable() method of the CurrencyConversion class]	
+		* Exchanged USD [using convertEURToUSD() method of the app.CurrencyConversion class]
+		* Payable USD [using calculatePayable() method of the app.CurrencyConversion class]	
 	5) END of the program
 	
 	
